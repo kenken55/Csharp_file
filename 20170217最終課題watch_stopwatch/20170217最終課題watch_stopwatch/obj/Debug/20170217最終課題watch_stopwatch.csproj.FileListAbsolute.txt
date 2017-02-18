@@ -1,0 +1,9 @@
+C:\Users\masaru-tsujitani\Dropbox\Visual Studio 2015\20170217最終課題watch_stopwatch\20170217最終課題watch_stopwatch\bin\Debug\20170217最終課題watch_stopwatch.exe.config
+C:\Users\masaru-tsujitani\Dropbox\Visual Studio 2015\20170217最終課題watch_stopwatch\20170217最終課題watch_stopwatch\obj\Debug\_20170217最終課題watch_stopwatch.Properties.Resources.resources
+C:\Users\masaru-tsujitani\Dropbox\Visual Studio 2015\20170217最終課題watch_stopwatch\20170217最終課題watch_stopwatch\obj\Debug\20170217最終課題watch_stopwatch.csproj.GenerateResource.Cache
+C:\Users\masaru-tsujitani\Dropbox\Visual Studio 2015\20170217最終課題watch_stopwatch\20170217最終課題watch_stopwatch\bin\Debug\20170217最終課題watch_stopwatch.exe
+C:\Users\masaru-tsujitani\Dropbox\Visual Studio 2015\20170217最終課題watch_stopwatch\20170217最終課題watch_stopwatch\bin\Debug\20170217最終課題watch_stopwatch.pdb
+C:\Users\masaru-tsujitani\Dropbox\Visual Studio 2015\20170217最終課題watch_stopwatch\20170217最終課題watch_stopwatch\obj\Debug\_20170217最終課題watch_stopwatch.Form1.resources
+C:\Users\masaru-tsujitani\Dropbox\Visual Studio 2015\20170217最終課題watch_stopwatch\20170217最終課題watch_stopwatch\obj\Debug\20170217最終課題watch_stopwatch.exe
+C:\Users\masaru-tsujitani\Dropbox\Visual Studio 2015\20170217最終課題watch_stopwatch\20170217最終課題watch_stopwatch\obj\Debug\20170217最終課題watch_stopwatch.pdb
+C:\Users\masaru-tsujitani\Dropbox\Visual Studio 2015\20170217最終課題watch_stopwatch\20170217最終課題watch_stopwatch\obj\Debug\20170217最終課題watch_stopwatch.csprojResolveAssemblyReference.cache
