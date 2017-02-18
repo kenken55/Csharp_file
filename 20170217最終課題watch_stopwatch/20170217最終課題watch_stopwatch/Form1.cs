@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace _20170217最終課題watch_stopwatch
+namespace _20170217最終課題001watch_stopwatch
 {
     public partial class Form1 : Form
     {
